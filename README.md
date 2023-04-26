@@ -28,6 +28,7 @@ Missing Features:
   - Clock that shows at all times (due to limitations with the text user interface, constantly refreshing the display to show the time can cause issues)
   - Overtime (due to shifts having no prescribed length and all shifts being treated as separate and unrelated even within the same week, overtime is not able to be implemented currently)
   - Encryption or other protection of any stored data
+  - Easy clock in and out of employees from admin view of an employee (currently to clock an employee in or out, or to start or end an employees break an admin must log in as the employee to perform this action)
   
 How To Run:
 -------------------------------------------------------------------
