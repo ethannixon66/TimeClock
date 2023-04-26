@@ -37,7 +37,10 @@ Missing Features:
   
 How To Run:
 -------------------------------------------------------------------
-TODO
+- Windows
+  - Launch TimeClock.exe from Release folder
+- macOS and Linux
+  - Use mono to run TimeClock.exe from Release folder
   
   
 
