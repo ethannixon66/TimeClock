@@ -42,6 +42,14 @@ How To Run:
 - macOS and Linux
   - Use mono to run TimeClock.exe from Release folder
   
-  
+How To Use:
+-------------------------------------------------------------------
+- Terminal.Gui provides both keyboard and mouse support
+  - Mouse controls work just like you would expect, including highlighting and right clicking 
+  - Keyboard controls also work as expected, with arrow keys and tab used to navigate between buttons, and enter used to toggle buttons. Additionally the File menu can be toggled with Alt+F on Windows, but must be clicked on macOS.
+- There is guided admin account creation when the app first launches, and all other features are simple enough to require no instructions.
+- Make sure to maximize the window or zoom out to the level where you can see all buttons. 
+
+
 
   
