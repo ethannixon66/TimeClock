@@ -7,6 +7,11 @@ Platforms:
 - macOS
 - Linux
 
+Dependencies:
+-------------------------------------------------------------------
+- [Terminal.Gui](https://www.nuget.org/packages/Terminal.Gui)
+- [System.Text.Json](https://www.nuget.org/packages/System.Text.Json/)
+
 Features:
 -------------------------------------------------------------------
 - Persistent storage of admin and employee information
